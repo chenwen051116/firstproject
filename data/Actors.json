@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":5,"characterName":"People3","classId":1,"equips":[],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":2,"characterName":"People2","classId":1,"equips":[],"faceIndex":2,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":3,"characterName":"People3","classId":1,"equips":[],"faceIndex":3,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""}
+]
